@@ -1,0 +1,1057 @@
+[
+  {
+    "TextLine": "Avenue Rd",
+    "BoundingBox": null,
+    "PointY": 34,
+    "PointX": 463,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "1890 Avenue Rd",
+    "BoundingBox": null,
+    "PointY": 57,
+    "PointX": 438,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "North York ON M5M 3Z8",
+    "BoundingBox": null,
+    "PointY": 83,
+    "PointX": 399,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Tel#: (416) 783-7562",
+    "BoundingBox": null,
+    "PointY": 105,
+    "PointX": 407,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Store#: 1975",
+    "BoundingBox": null,
+    "PointY": 156,
+    "PointX": 374,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "TRANS#: 1LN4HOJ814",
+    "BoundingBox": null,
+    "PointY": 190,
+    "PointX": 343,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "ORAO SIHA NUNLA asva la",
+    "BoundingBox": null,
+    "PointY": 216,
+    "PointX": 727,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Welcome to McDonald's",
+    "BoundingBox": null,
+    "PointY": 248,
+    "PointX": 401,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "194",
+    "BoundingBox": null,
+    "PointY": 321,
+    "PointX": 466,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "08/11/2020 03:32:29 PM",
+    "BoundingBox": null,
+    "PointY": 503,
+    "PointX": 483,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "KS# 1",
+    "BoundingBox": null,
+    "PointY": 504,
+    "PointX": 323,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "QTY ITEM",
+    "BoundingBox": null,
+    "PointY": 551,
+    "PointX": 325,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "TOTAL",
+    "BoundingBox": null,
+    "PointY": 551,
+    "PointX": 642,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "1 Big Mac",
+    "BoundingBox": null,
+    "PointY": 576,
+    "PointX": 345,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "4.99",
+    "BoundingBox": null,
+    "PointY": 577,
+    "PointX": 649,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Y TUO",
+    "BoundingBox": null,
+    "PointY": 599,
+    "PointX": 493,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "1 Vanilla Cone",
+    "BoundingBox": null,
+    "PointY": 600,
+    "PointX": 345,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "1.00",
+    "BoundingBox": null,
+    "PointY": 601,
+    "PointX": 651,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Subtotal",
+    "BoundingBox": null,
+    "PointY": 648,
+    "PointX": 324,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "5.99",
+    "BoundingBox": null,
+    "PointY": 650,
+    "PointX": 646,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "HST",
+    "BoundingBox": null,
+    "PointY": 674,
+    "PointX": 324,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "0.78",
+    "BoundingBox": null,
+    "PointY": 674,
+    "PointX": 646,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Take-Out Total",
+    "BoundingBox": null,
+    "PointY": 697,
+    "PointX": 325,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "6.77",
+    "BoundingBox": null,
+    "PointY": 698,
+    "PointX": 650,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "CREDIT CARD",
+    "BoundingBox": null,
+    "PointY": 745,
+    "PointX": 325,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "6.77",
+    "BoundingBox": null,
+    "PointY": 746,
+    "PointX": 649,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "ILINO AUDENAT",
+    "BoundingBox": null,
+    "PointY": 750,
+    "PointX": 436,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Change",
+    "BoundingBox": null,
+    "PointY": 770,
+    "PointX": 324,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "0.00",
+    "BoundingBox": null,
+    "PointY": 771,
+    "PointX": 646,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "PLEASE TURN THIS OVER'",
+    "BoundingBox": null,
+    "PointY": 782,
+    "PointX": 747,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "GST #: 826257271RP0001",
+    "BoundingBox": null,
+    "PointY": 842,
+    "PointX": 397,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "NOW HIRING! APPLY ONLINE AT:",
+    "BoundingBox": null,
+    "PointY": 866,
+    "PointX": 367,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "WWW.WORKSFORME.CA",
+    "BoundingBox": null,
+    "PointY": 892,
+    "PointX": 425,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "========= TRANSACTION RECORD ==========",
+    "BoundingBox": null,
+    "PointY": 942,
+    "PointX": 320,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "TYPE: PURCHASE",
+    "BoundingBox": null,
+    "PointY": 989,
+    "PointX": 321,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "----",
+    "BoundingBox": null,
+    "PointY": 1023,
+    "PointX": 639,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "ACCT : MASTERCARD",
+    "BoundingBox": null,
+    "PointY": 1039,
+    "PointX": 320,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "6.77",
+    "BoundingBox": null,
+    "PointY": 1042,
+    "PointX": 635,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "PLEASE TURN THIS OVER!",
+    "BoundingBox": null,
+    "PointY": 1047,
+    "PointX": 751,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "CARD NUMBER: ************ 1120",
+    "BoundingBox": null,
+    "PointY": 1111,
+    "PointX": 319,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "DATE/TIME:",
+    "BoundingBox": null,
+    "PointY": 1134,
+    "PointX": 322,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "11-Aug-2020 15:33:00",
+    "BoundingBox": null,
+    "PointY": 1139,
+    "PointX": 442,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "REFERENCE #: 66169254 0014641800 H",
+    "BoundingBox": null,
+    "PointY": 1160,
+    "PointX": 319,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "AUTHOR. #:",
+    "BoundingBox": null,
+    "PointY": 1185,
+    "PointX": 320,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "09014E",
+    "BoundingBox": null,
+    "PointY": 1186,
+    "PointX": 440,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "TRANS #:",
+    "BoundingBox": null,
+    "PointY": 1209,
+    "PointX": 322,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "1LN4HOJ814",
+    "BoundingBox": null,
+    "PointY": 1213,
+    "PointX": 444,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "APP :",
+    "BoundingBox": null,
+    "PointY": 1260,
+    "PointX": 323,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "CAPITAL ONE",
+    "BoundingBox": null,
+    "PointY": 1262,
+    "PointX": 472,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "AID:",
+    "BoundingBox": null,
+    "PointY": 1283,
+    "PointX": 324,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "A0000000041010",
+    "BoundingBox": null,
+    "PointY": 1287,
+    "PointX": 471,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "ARQC TVR:",
+    "BoundingBox": null,
+    "PointY": 1308,
+    "PointX": 320,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "PLEASE TURN",
+    "BoundingBox": null,
+    "PointY": 1312,
+    "PointX": 753,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "0000008000",
+    "BoundingBox": null,
+    "PointY": 1314,
+    "PointX": 469,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "ARQC :",
+    "BoundingBox": null,
+    "PointY": 1335,
+    "PointX": 321,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "A6FD3FD96F56ED23",
+    "BoundingBox": null,
+    "PointY": 1338,
+    "PointX": 469,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "TC/AAC :",
+    "BoundingBox": null,
+    "PointY": 1359,
+    "PointX": 321,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "A6FD3FD96F56ED23",
+    "BoundingBox": null,
+    "PointY": 1364,
+    "PointX": 469,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "01 APPROVED - THANK YOU 027",
+    "BoundingBox": null,
+    "PointY": 1410,
+    "PointX": 375,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  }
+]
+[
+  {
+    "TextLine": "SARIWON",
+    "BoundingBox": null,
+    "PointY": 111,
+    "PointX": 439,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Korean BBQ Restaurant",
+    "BoundingBox": null,
+    "PointY": 160,
+    "PointX": 302,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "7385 Yonge St ., Thornhill, ON, L4G 1V8",
+    "BoundingBox": null,
+    "PointY": 207,
+    "PointX": 176,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "(Tel) 905.881.5103",
+    "BoundingBox": null,
+    "PointY": 246,
+    "PointX": 339,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "----",
+    "BoundingBox": null,
+    "PointY": 307,
+    "PointX": 630,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "--------",
+    "BoundingBox": null,
+    "PointY": 308,
+    "PointX": 317,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "===",
+    "BoundingBox": null,
+    "PointY": 308,
+    "PointX": 809,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "------ - -- ---",
+    "BoundingBox": null,
+    "PointY": 311,
+    "PointX": 379,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "==",
+    "BoundingBox": null,
+    "PointY": 316,
+    "PointX": 105,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "13:32:14",
+    "BoundingBox": null,
+    "PointY": 337,
+    "PointX": 720,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "08/25/20",
+    "BoundingBox": null,
+    "PointY": 338,
+    "PointX": 482,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "DATE/TIME:",
+    "BoundingBox": null,
+    "PointY": 349,
+    "PointX": 102,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Server:",
+    "BoundingBox": null,
+    "PointY": 391,
+    "PointX": 483,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "STATION #:01-2",
+    "BoundingBox": null,
+    "PointY": 394,
+    "PointX": 101,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Guest No:3",
+    "BoundingBox": null,
+    "PointY": 434,
+    "PointX": 594,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "RECEIPT #:001-2-0011",
+    "BoundingBox": null,
+    "PointY": 440,
+    "PointX": 100,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Patio 12",
+    "BoundingBox": null,
+    "PointY": 489,
+    "PointX": 357,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "--------=============",
+    "BoundingBox": null,
+    "PointY": 573,
+    "PointX": 268,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "=====",
+    "BoundingBox": null,
+    "PointY": 574,
+    "PointX": 779,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "-------------------",
+    "BoundingBox": null,
+    "PointY": 579,
+    "PointX": 101,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Bill",
+    "BoundingBox": null,
+    "PointY": 614,
+    "PointX": 432,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "DE2 bE",
+    "BoundingBox": null,
+    "PointY": 655,
+    "PointX": 789,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "==",
+    "BoundingBox": null,
+    "PointY": 698,
+    "PointX": 734,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "===",
+    "BoundingBox": null,
+    "PointY": 700,
+    "PointX": 806,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Price",
+    "BoundingBox": null,
+    "PointY": 732,
+    "PointX": 599,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Sum",
+    "BoundingBox": null,
+    "PointY": 732,
+    "PointX": 811,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Product",
+    "BoundingBox": null,
+    "PointY": 735,
+    "PointX": 293,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Qty",
+    "BoundingBox": null,
+    "PointY": 736,
+    "PointX": 105,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "--------",
+    "BoundingBox": null,
+    "PointY": 791,
+    "PointX": 329,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "------",
+    "BoundingBox": null,
+    "PointY": 791,
+    "PointX": 496,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "======",
+    "BoundingBox": null,
+    "PointY": 795,
+    "PointX": 107,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "--------",
+    "BoundingBox": null,
+    "PointY": 798,
+    "PointX": 249,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "---------",
+    "BoundingBox": null,
+    "PointY": 800,
+    "PointX": 385,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "41.99",
+    "BoundingBox": null,
+    "PointY": 826,
+    "PointX": 620,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "41.99",
+    "BoundingBox": null,
+    "PointY": 826,
+    "PointX": 773,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "1 x",
+    "BoundingBox": null,
+    "PointY": 828,
+    "PointX": 107,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "LAFER",
+    "BoundingBox": null,
+    "PointY": 876,
+    "PointX": 300,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Saeng Kalbi",
+    "BoundingBox": null,
+    "PointY": 879,
+    "PointX": 104,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "57.98",
+    "BoundingBox": null,
+    "PointY": 920,
+    "PointX": 778,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "2x",
+    "BoundingBox": null,
+    "PointY": 921,
+    "PointX": 104,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "28.99",
+    "BoundingBox": null,
+    "PointY": 921,
+    "PointX": 621,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "BTHION ORTER",
+    "BoundingBox": null,
+    "PointY": 954,
+    "PointX": 480,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "938 3THI09",
+    "BoundingBox": null,
+    "PointY": 957,
+    "PointX": 306,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "SamKyubSal",
+    "BoundingBox": null,
+    "PointY": 973,
+    "PointX": 103,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "==-----",
+    "BoundingBox": null,
+    "PointY": 1027,
+    "PointX": 732,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "-------------",
+    "BoundingBox": null,
+    "PointY": 1031,
+    "PointX": 312,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "--------------",
+    "BoundingBox": null,
+    "PointY": 1035,
+    "PointX": 249,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "SubTotal",
+    "BoundingBox": null,
+    "PointY": 1066,
+    "PointX": 111,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "$99.97",
+    "BoundingBox": null,
+    "PointY": 1066,
+    "PointX": 757,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "HST",
+    "BoundingBox": null,
+    "PointY": 1118,
+    "PointX": 106,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "amicimon $ 13.00",
+    "BoundingBox": null,
+    "PointY": 1122,
+    "PointX": 536,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "-savhaent Seidmem anq",
+    "BoundingBox": null,
+    "PointY": 1160,
+    "PointX": 314,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "$112.97",
+    "BoundingBox": null,
+    "PointY": 1165,
+    "PointX": 627,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "TOTAL",
+    "BoundingBox": null,
+    "PointY": 1167,
+    "PointX": 133,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "noo.affiloy-ostag Bed",
+    "BoundingBox": null,
+    "PointY": 1196,
+    "PointX": 327,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "HST#: 834033722RT0001",
+    "BoundingBox": null,
+    "PointY": 1285,
+    "PointX": 314,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Thank you for your business",
+    "BoundingBox": null,
+    "PointY": 1334,
+    "PointX": 258,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  },
+  {
+    "TextLine": "Please, come again",
+    "BoundingBox": null,
+    "PointY": 1382,
+    "PointX": 342,
+    "Length": 0,
+    "Height": 0,
+    "IsProcess": false
+  }
+]
